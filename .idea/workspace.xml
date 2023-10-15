@@ -9,7 +9,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e7a86c-aa24-4e2a-8340-c3b14520e8e4" name="Changes" comment="" />
+    <list default="true" id="92e7a86c-aa24-4e2a-8340-c3b14520e8e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher.xcodeproj/project.xcworkspace/xcuserdata/louishuber.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher.xcodeproj/xcuserdata/louishuber.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher.xcodeproj/xcuserdata/louishuber.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar-cipher/caesar-cipher/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="cf.first.check.clang-format" value="false" />
-    <property name="cidr.known.project.marker" value="true" />
-    <property name="cmake.loaded.for.project" value="true" />
-  </component>
-  <component name="RunManager" selected="CMake Application.simple_cipher">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.caesar_cipher">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -82,12 +92,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="CMake Application.simple_cipher" />
       <item itemvalue="Python.caesar_cipher" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="CMake Application.simple_cipher" />
         <item itemvalue="Python.caesar_cipher" />
       </list>
     </recent_temporary>
@@ -102,6 +110,7 @@
       <updated>1697372521885</updated>
       <workItem from="1697372529242" duration="3078000" />
       <workItem from="1697380881986" duration="10000" />
+      <workItem from="1697393413286" duration="1198000" />
     </task>
     <servers />
   </component>
@@ -110,5 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/simple_cipher$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1697393434122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
