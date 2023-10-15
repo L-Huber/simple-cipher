@@ -1,6 +1,6 @@
 #Gibt einen verschlüsselten Text aus, sowie eine Schlüssel zum Entschlüsseln des Textes
 
-    #Variabel:
+    #Variabeln:
     #    input_string (str): Text, der verschlüsselt werden soll
     #    shift_key (int): Anzahl an Buchstaben, die der Text verschoben werden soll
 
